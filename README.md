@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- ✨i'm currently studying  Análise e Desenvolvimento de Sistemas at FIAP <br>- 🎯 Back-end developer<br>- 🎲 Focus</p>
+<p align="left">- ✨Graduated in Systems Analysis and Development at FIAP <br>- 🎯 Back-end developer<br>- 🎲 Focus</p>
 
 ###
 
